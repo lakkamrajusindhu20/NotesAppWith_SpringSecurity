@@ -19,8 +19,6 @@ It demonstrates a full-stack backend with security, persistence, and REST APIs.
 ✔ Uses MySQL database for persistence  
 ✔ JSP based frontend views (optional UI)
 
----
-
 ## Technology Stack
 
 | Technology | Purpose |
@@ -34,7 +32,5 @@ It demonstrates a full-stack backend with security, persistence, and REST APIs.
 | **Maven** | Build tool |
 | **JSP** | Frontend views |
 
----
-
-## 📁 Project Structure
+run link:http://localhost:8080
 
